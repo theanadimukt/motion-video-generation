@@ -1,0 +1,17 @@
+# Heavy per-episode media (manifests, visual-rules.md and scripts stay tracked)
+episodes/*/style-guide/reference-video/*
+episodes/*/style-guide/frames/*.jpg
+episodes/*/style-guide/frames/*.png
+episodes/*/assets/raw/*
+episodes/*/assets/audio/*
+episodes/*/output/*.mp4
+episodes/*/output/*.mov
+episodes/*/output/*.wav
+episodes/*/output/*-project/node_modules/
+!**/.gitkeep
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.env

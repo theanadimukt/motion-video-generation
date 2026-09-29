@@ -1,0 +1,18 @@
+{
+  "name": "Your Brand",
+  "logo": "shared/branding/logo.png",
+  "watermark": { "file": "shared/branding/watermark.png", "position": "bottom-right", "opacity": 0.6, "margin_pct": 3 },
+  "colors": {
+    "primary": "#6C5CE7",
+    "secondary": "#00D2D3",
+    "background": "#0F0F14",
+    "text": "#FFFFFF",
+    "accent": "#FDCB6E"
+  },
+  "typography": {
+    "headline": { "family": "Inter", "weight": 800, "size_pct_of_height": 7 },
+    "body": { "family": "Inter", "weight": 500, "size_pct_of_height": 4 },
+    "captions": { "family": "Inter", "weight": 700, "size_pct_of_height": 4.5, "stroke": "2px #000", "max_words_per_line": 5 }
+  },
+  "safe_zone_pct": { "x": 5, "y": 8 }
+}
